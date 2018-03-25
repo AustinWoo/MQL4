@@ -1,0 +1,64 @@
+3	09:54:35.820	cannot open file 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Experts\AustinEA\EURUSD_EA.ex4' [3]
+0	09:55:39.048	Expert myddl_test EURUSD,H1: loaded successfully
+3	09:55:52.089	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	09:55:52.089	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	09:55:52.089	myddl_test EURUSD,H1: unresolved import function call
+3	09:55:52.089	myddl_test EURUSD,H1: not initialized
+0	09:55:52.089	myddl_test EURUSD,H1: uninit reason 8
+0	09:55:52.089	Expert myddl_test EURUSD,H1: removed
+0	09:57:29.409	Expert myddl_test USDCHF,H1: loaded successfully
+3	09:57:40.001	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	09:57:40.001	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	09:57:40.017	myddl_test USDCHF,H1: unresolved import function call
+3	09:57:40.079	myddl_test USDCHF,H1: not initialized
+0	09:57:40.079	myddl_test USDCHF,H1: uninit reason 8
+0	09:57:40.251	Expert myddl_test USDCHF,H1: removed
+0	09:58:22.729	Expert myddl_test EURUSD,H1: loaded successfully
+3	09:58:28.235	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	09:58:28.235	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	09:58:28.235	myddl_test EURUSD,H1: unresolved import function call
+3	09:58:28.235	myddl_test EURUSD,H1: not initialized
+0	09:58:28.235	myddl_test EURUSD,H1: uninit reason 8
+0	09:58:28.235	Expert myddl_test EURUSD,H1: removed
+0	10:00:38.587	Expert myddl_test EURUSD,H1: loaded successfully
+3	10:00:41.613	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	10:00:41.613	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	10:00:41.613	myddl_test EURUSD,H1: unresolved import function call
+3	10:00:41.613	myddl_test EURUSD,H1: not initialized
+0	10:00:41.613	myddl_test EURUSD,H1: uninit reason 8
+0	10:00:41.613	Expert myddl_test EURUSD,H1: removed
+0	10:03:19.339	Expert myddl_test EURUSD,H1: loaded successfully
+3	10:03:22.240	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Experts\QuantPrediction.dll' [126]
+1	10:03:22.240	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	10:03:22.240	myddl_test EURUSD,H1: unresolved import function call
+3	10:03:22.240	myddl_test EURUSD,H1: not initialized
+0	10:03:22.240	myddl_test EURUSD,H1: uninit reason 8
+0	10:03:22.240	Expert myddl_test EURUSD,H1: removed
+0	10:04:24.008	Expert myddl_test EURUSD,H1: loaded successfully
+3	10:04:28.860	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Experts\QuantPrediction.dll' [126]
+1	10:04:28.860	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	10:04:28.860	myddl_test EURUSD,H1: unresolved import function call
+3	10:04:28.860	myddl_test EURUSD,H1: not initialized
+0	10:04:28.860	myddl_test EURUSD,H1: uninit reason 8
+0	10:04:28.860	Expert myddl_test EURUSD,H1: removed
+0	10:06:25.993	Expert myddl_test EURUSD,H1: loaded successfully
+3	10:06:29.253	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Experts\QuantPrediction.dll' [126]
+1	10:06:29.253	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	10:06:29.253	myddl_test EURUSD,H1: unresolved import function call
+3	10:06:29.253	myddl_test EURUSD,H1: not initialized
+0	10:06:29.253	myddl_test EURUSD,H1: uninit reason 8
+0	10:06:29.253	Expert myddl_test EURUSD,H1: removed
+0	10:06:47.380	Expert myddl_test EURUSD,H1: loaded successfully
+3	10:06:49.564	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Experts\QuantPrediction.dll' [126]
+1	10:06:49.564	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	10:06:49.564	myddl_test EURUSD,H1: unresolved import function call
+3	10:06:49.564	myddl_test EURUSD,H1: not initialized
+0	10:06:49.564	myddl_test EURUSD,H1: uninit reason 8
+0	10:06:49.564	Expert myddl_test EURUSD,H1: removed
+0	10:07:16.801	Expert myddl_test EURUSD,H1: loaded successfully
+3	10:07:19.141	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	10:07:19.141	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	10:07:19.141	myddl_test EURUSD,H1: unresolved import function call
+3	10:07:19.141	myddl_test EURUSD,H1: not initialized
+0	10:07:19.141	myddl_test EURUSD,H1: uninit reason 8
+0	10:07:19.141	Expert myddl_test EURUSD,H1: removed

@@ -1,0 +1,335 @@
+0	00:05:22.942	Automated trading disabled
+0	00:33:04.020	Expert myddl_test EURUSD,H1: loaded successfully
+3	00:33:06.886	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	00:33:06.889	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	00:33:06.889	myddl_test EURUSD,H1: unresolved import function call
+3	00:33:06.890	myddl_test EURUSD,H1: not initialized
+0	00:33:06.890	myddl_test EURUSD,H1: uninit reason 8
+0	00:33:06.892	Expert myddl_test EURUSD,H1: removed
+0	00:33:14.436	Expert myddl_test EURUSD,H1: loaded successfully
+0	00:34:49.007	Expert myddl_test EURUSD,H1: removed
+0	00:41:39.075	Expert myddl_test EURUSD,H1: loaded successfully
+3	00:41:49.487	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	00:41:49.487	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	00:41:49.487	myddl_test EURUSD,H1: unresolved import function call
+3	00:41:49.488	myddl_test EURUSD,H1: not initialized
+0	00:41:49.488	myddl_test EURUSD,H1: uninit reason 8
+0	00:41:49.490	Expert myddl_test EURUSD,H1: removed
+0	00:42:15.825	Expert test EURUSD,H1: loaded successfully
+0	00:42:19.017	test EURUSD,H1: initialized
+0	00:49:19.636	Expert test EURUSD,H1: loaded successfully
+0	00:49:26.524	test EURUSD,H1: initialized
+0	00:49:38.852	test EURUSD,H1: uninit reason 1
+0	00:49:38.868	Expert test EURUSD,H1: removed
+0	00:49:38.883	Expert myddl_test EURUSD,H1: loaded successfully
+3	00:49:43.009	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	00:49:43.009	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	00:49:43.009	myddl_test EURUSD,H1: unresolved import function call
+3	00:49:43.009	myddl_test EURUSD,H1: not initialized
+0	00:49:43.009	myddl_test EURUSD,H1: uninit reason 8
+0	00:49:43.009	Expert myddl_test EURUSD,H1: removed
+0	00:50:06.689	Expert myddl_test EURUSD,H1: loaded successfully
+0	00:52:05.020	Expert myddl_test EURUSD,H1: removed
+0	00:52:06.828	Expert test EURUSD,H1: loaded successfully
+0	00:52:08.573	test EURUSD,H1: initialized
+0	00:52:11.783	test EURUSD,H1: uninit reason 1
+0	00:52:11.798	Expert test EURUSD,H1: removed
+0	00:52:11.814	Expert myddl_test EURUSD,H1: loaded successfully
+3	00:52:19.403	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	00:52:19.403	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	00:52:19.403	myddl_test EURUSD,H1: unresolved import function call
+3	00:52:19.403	myddl_test EURUSD,H1: not initialized
+0	00:52:19.403	myddl_test EURUSD,H1: uninit reason 8
+0	00:52:19.403	Expert myddl_test EURUSD,H1: removed
+0	00:52:26.851	Automated trading enabled
+0	00:52:28.877	Automated trading disabled
+0	00:52:33.505	Expert myddl_test EURUSD,H1: loaded successfully
+3	00:52:37.214	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	00:52:37.214	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	00:52:37.214	myddl_test EURUSD,H1: unresolved import function call
+3	00:52:37.214	myddl_test EURUSD,H1: not initialized
+0	00:52:37.214	myddl_test EURUSD,H1: uninit reason 8
+0	00:52:37.214	Expert myddl_test EURUSD,H1: removed
+0	00:52:41.936	Expert test EURUSD,H1: loaded successfully
+0	00:52:45.678	test EURUSD,H1: initialized
+0	08:04:33.111	test EURUSD,H1: uninit reason 9
+0	08:04:33.143	Expert test EURUSD,H1: removed
+0	11:18:39.248	Expert test EURUSD,H1: loaded successfully
+0	11:18:46.143	test EURUSD,H1: initialized
+0	11:19:06.888	test EURUSD,H1: uninit reason 1
+0	11:19:06.904	Expert test EURUSD,H1: removed
+0	11:19:06.920	Expert myddl_test EURUSD,H1: loaded successfully
+3	11:19:11.303	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	11:19:11.303	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	11:19:11.303	myddl_test EURUSD,H1: unresolved import function call
+3	11:19:11.303	myddl_test EURUSD,H1: not initialized
+0	11:19:11.303	myddl_test EURUSD,H1: uninit reason 8
+0	11:19:11.303	Expert myddl_test EURUSD,H1: removed
+0	15:20:44.749	Expert test EURUSD,Weekly: loaded successfully
+0	15:20:48.198	test EURUSD,Weekly: initialized
+0	15:20:59.591	test EURUSD,Weekly: uninit reason 1
+0	15:20:59.607	Expert test EURUSD,Weekly: removed
+0	15:20:59.622	Expert myddl_test EURUSD,Weekly: loaded successfully
+3	15:21:05.787	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	15:21:05.787	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	15:21:05.787	myddl_test EURUSD,Weekly: unresolved import function call
+3	15:21:05.787	myddl_test EURUSD,Weekly: not initialized
+0	15:21:05.787	myddl_test EURUSD,Weekly: uninit reason 8
+0	15:21:05.787	Expert myddl_test EURUSD,Weekly: removed
+0	15:24:44.109	Expert myddl_test EURUSD,Weekly: loaded successfully
+3	15:24:49.007	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	15:24:49.007	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	15:24:49.007	myddl_test EURUSD,Weekly: unresolved import function call
+3	15:24:49.007	myddl_test EURUSD,Weekly: not initialized
+0	15:24:49.007	myddl_test EURUSD,Weekly: uninit reason 8
+0	15:24:49.023	Expert myddl_test EURUSD,Weekly: removed
+0	15:25:35.167	Expert myddl_test EURUSD,Weekly: loaded successfully
+3	15:25:39.442	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	15:25:39.442	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	15:25:39.442	myddl_test EURUSD,Weekly: unresolved import function call
+3	15:25:39.442	myddl_test EURUSD,Weekly: not initialized
+0	15:25:39.442	myddl_test EURUSD,Weekly: uninit reason 8
+0	15:25:39.442	Expert myddl_test EURUSD,Weekly: removed
+0	15:30:52.164	Expert myddl_test USDCHF,H1: loaded successfully
+3	15:30:55.833	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	15:30:55.833	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	15:30:55.848	myddl_test USDCHF,H1: unresolved import function call
+3	15:30:55.958	myddl_test USDCHF,H1: not initialized
+0	15:30:55.958	myddl_test USDCHF,H1: uninit reason 8
+0	15:30:56.051	Expert myddl_test USDCHF,H1: removed
+0	15:31:03.362	Expert myddl_test EURUSD,Weekly: loaded successfully
+3	15:31:06.315	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	15:31:06.315	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	15:31:06.315	myddl_test EURUSD,Weekly: unresolved import function call
+3	15:31:06.315	myddl_test EURUSD,Weekly: not initialized
+0	15:31:06.315	myddl_test EURUSD,Weekly: uninit reason 8
+0	15:31:06.315	Expert myddl_test EURUSD,Weekly: removed
+0	15:53:22.923	Expert myddl_test EURUSD,Weekly: loaded successfully
+3	15:53:26.054	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	15:53:26.054	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	15:53:26.054	myddl_test EURUSD,Weekly: unresolved import function call
+3	15:53:26.054	myddl_test EURUSD,Weekly: not initialized
+0	15:53:26.054	myddl_test EURUSD,Weekly: uninit reason 8
+0	15:53:26.054	Expert myddl_test EURUSD,Weekly: removed
+0	15:53:35.274	Expert test EURUSD,Weekly: loaded successfully
+0	15:53:36.984	test EURUSD,Weekly: initialized
+0	15:53:43.754	test EURUSD,Weekly: uninit reason 1
+0	15:53:43.770	Expert test EURUSD,Weekly: removed
+0	15:53:43.785	Expert myddl_test EURUSD,Weekly: loaded successfully
+3	15:53:45.096	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	15:53:45.096	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	15:53:45.096	myddl_test EURUSD,Weekly: unresolved import function call
+3	15:53:45.096	myddl_test EURUSD,Weekly: not initialized
+0	15:53:45.096	myddl_test EURUSD,Weekly: uninit reason 8
+0	15:53:45.096	Expert myddl_test EURUSD,Weekly: removed
+0	15:58:34.231	Expert myddl_test EURUSD,Weekly: loaded successfully
+3	15:58:37.085	Cannot load 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll' [126]
+1	15:58:37.085	Cannot call 'QuantPrediction.dll::QuantPrediction_evaluate', 'QuantPrediction.dll' is not loaded
+1	15:58:37.085	myddl_test EURUSD,Weekly: unresolved import function call
+3	15:58:37.085	myddl_test EURUSD,Weekly: not initialized
+0	15:58:37.085	myddl_test EURUSD,Weekly: uninit reason 8
+0	15:58:37.085	Expert myddl_test EURUSD,Weekly: removed
+0	16:00:09.015	Expert myddl_test EURUSD,Weekly: loaded successfully
+0	16:00:15.584	myddl_test EURUSD,Weekly: initialized
+0	16:01:03.427	Automated trading enabled
+0	16:01:49.320	myddl_test EURUSD,Weekly: uninit reason 9
+0	16:01:49.351	Expert myddl_test EURUSD,Weekly: removed
+0	16:02:35.940	Expert myddl_test EURUSD,Weekly: loaded successfully
+1	16:02:42.705	Access violation read to 0x00000000 in 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll'
+3	16:02:42.705	myddl_test EURUSD,Weekly: not initialized
+0	16:02:42.705	myddl_test EURUSD,Weekly: uninit reason 8
+0	16:02:42.705	Expert myddl_test EURUSD,Weekly: removed
+0	16:04:53.055	Expert test EURUSD,Weekly: loaded successfully
+0	16:04:55.208	test EURUSD,Weekly: initialized
+0	17:05:15.529	test EURUSD,Weekly: uninit reason 9
+0	17:05:15.560	Expert test EURUSD,Weekly: removed
+0	17:08:43.548	Expert test EURUSD,Weekly: loaded successfully
+0	17:30:34.284	Expert test EURUSD,Weekly: loaded successfully
+0	17:30:41.500	test EURUSD,Weekly: initialized
+0	17:30:44.557	test EURUSD,Weekly: uninit reason 1
+0	17:30:44.573	Expert test EURUSD,Weekly: removed
+0	17:30:44.589	Expert test EURUSD,Weekly: loaded successfully
+0	17:30:48.847	test EURUSD,Weekly: initialized
+0	17:30:56.368	Automated trading enabled
+0	17:32:15.623	test EURUSD,Weekly: uninit reason 2
+0	17:32:15.623	Expert test EURUSD,Weekly: removed
+0	17:32:15.638	Expert test EURUSD,Weekly: loaded successfully
+0	17:32:16.529	test EURUSD,Weekly: initialized
+0	17:33:22.330	Automated trading disabled
+0	17:33:24.514	test EURUSD,Weekly: uninit reason 4
+0	17:33:24.514	Expert test EURUSD,Weekly: removed
+0	17:38:45.132	Expert test EURUSD,H1: loaded successfully
+0	17:38:50.002	test EURUSD,H1: in --> pricedateweekday:2,pricetimehour:11,closebid:1.23918000,trend:1,gapbid_pre_h1:0.00096000,gapbid_pre_h2:0.00303000,gapbid_pre_h3:0.00263000,gapbid_pre_h4:0.00188000,gapbid_pre_h5:0.00190000,gapbid_pre_h6:0.00171000,gapbid_pre_h7:0.00221000,gapbid_pre_h8:0.00229000,gapbid_pre_h9:0.00380000,gapbid_pre_h10:0.00253000,gapbid_pre_h11:0.00345000,gapbid_pre_h12:0.00392000,trend_pre_h1:1,trend_pre_h2:-1,trend_pre_h3:-1,trend_pre_h4:1,trend_pre_h5:-1,trend_pre_h6:1,trend_pre_h7:1,trend_pre_h8:1,trend_pre_h9:-1,trend_pre_h10:1,trend_pre_h11:1,trend_pre_h12:-1,trend_gap_pre_h1:0.00207000,trend_gap_pre_h2:-0.00040000,trend_gap_pre_h3:-0.00075000,trend_gap_pre_h4:0.00002000,trend_gap_pre_h5:-0.00019000,trend_gap_pre_h6:0.00050000,trend_gap_pre_h7:0.00008000,trend_gap_pre_h8:0.00151000,trend_gap_pre_h9:-0.00127000,trend_gap_pre_h10:0.00092000,trend_gap_pre_h11:0.00047000,trend_gap_pre_h12:-0.00120000,openclose_h1:-0.00207000,openclose_h2:0.00040000,openclose_h3:0.00075000,openclose_h4:-0.00002000,openclose_h5:0.00019000,openclose_h6:-0.00050000,openclose_h7:-0.00011000,openclose_h8:-0.00151000,openclose_h9:0.00127000,openclose_h10:-0.00087000,openclose_h11:-0.00077000,openclose_h12:0.00121000,highlow_h1:0.00349000,highlow_h2:0.00089000,highlow_h3:0.00089000,highlow_h4:0.00048000,highlow_h5:0.00090000,highlow_h6:0.00092000,highlow_h7:0.00073000,highlow_h8:0.00287000,highlow_h9:0.00137000,highlow_h10:0.00103000,highlow_h11:0.00126000,highlow_h12:0.00154000,upbar_h1:0.00112000,upbar_h2:0.00046000,upbar_h3:0.00001000,upbar_h4:0.00026000,upbar_h5:0.00059000,upbar_h6:0.00011000,upbar_h7:0.00012000,upbar_h8:0.00110000,upbar_h9:0.00001000,upbar_h10:0.00004000,upbar_h11:0.00042000,upbar_h12:0.00012000,downbar_h1:0.00030000,downbar_h2:0.00003000,downbar_h3:0.00013000,downbar_h4:0.00020000,downbar_h5:0.00012000,downbar_h6:0.00031000,downbar_h7:0.00050000,downbar_h8:0.00026000,downbar_h9:0.00009000,downbar_h10:0.00012000,downbar_h11:0.00007000,downbar_h12:0.00021000,gapbid_pre_d1:0.00515000,gapbid_pre_d2:0.00157000,gapbid_pre_d3:0.01120000,gapbid_pre_d4:0.00188000,gapbid_pre_d5:0.00655000,gapbid_pre_d6:0.00487000,gapbid_pre_d7:-0.00130000,gapbid_pre_d8:-0.00354000,gapbid_pre_d9:0.00198000,gapbid_pre_d10:0.00482000,gapbid_pre_d11:0.00418000,gapbid_pre_d12:-0.00579000,gapbid_pre_d13:-0.00498000,gapbid_pre_d14:0.00173000,trend_pre_d1:-1,trend_pre_d2:1,trend_pre_d3:-1,trend_pre_d4:1,trend_pre_d5:-1,trend_pre_d6:-1,trend_pre_d7:-1,trend_pre_d8:1,trend_pre_d9:1,trend_pre_d10:-1,trend_pre_d11:-1,trend_pre_d12:1,trend_pre_d13:1,trend_pre_d14:1,trend_gap_pre_d1:-0.00358000,trend_gap_pre_d2:0.00963000,trend_gap_pre_d3:-0.00932000,trend_gap_pre_d4:0.00467000,trend_gap_pre_d5:-0.00168000,trend_gap_pre_d6:-0.00617000,trend_gap_pre_d7:-0.00224000,trend_gap_pre_d8:0.00552000,trend_gap_pre_d9:0.00284000,trend_gap_pre_d10:-0.00064000,trend_gap_pre_d11:-0.00997000,trend_gap_pre_d12:0.00081000,trend_gap_pre_d13:0.00671000,trend_gap_pre_d14:0.00137000,openclose_d1:0.00358000,openclose_d2:-0.00966000,openclose_d3:0.00933000,openclose_d4:-0.00495000,openclose_d5:0.00166000,openclose_d6:0.00620000,openclose_d7:0.00234000,openclose_d8:-0.00551000,openclose_d9:-0.00215000,openclose_d10:0.00059000,openclose_d11:0.00996000,openclose_d12:-0.00074000,openclose_d13:-0.00671000,openclose_d14:-0.00087000,highlow_d1:0.01032000,highlow_d2:0.01093000,highlow_d3:0.01149000,highlow_d4:0.01007000,highlow_d5:0.00763000,highlow_d6:0.00834000,highlow_d7:0.00655000,highlow_d8:0.00929000,highlow_d9:0.00552000,highlow_d10:0.00612000,highlow_d11:0.01481000,highlow_d12:0.00602000,highlow_d13:0.00921000,highlow_d14:0.00952000,upbar_d1:0.00511000,upbar_d2:0.00125000,upbar_d3:0.00202000,upbar_d4:0.00245000,upbar_d5:0.00322000,upbar_d6:0.00173000,upbar_d7:0.00232000,upbar_d8:0.00189000,upbar_d9:0.00123000,upbar_d10:0.00235000,upbar_d11:0.00351000,upbar_d12:0.00341000,upbar_d13:0.00174000,upbar_d14:0.00286000,downbar_d1:0.00163000,downbar_d2:0.00002000,downbar_d3:0.00014000,downbar_d4:0.00267000,downbar_d5:0.00275000,downbar_d6:0.00041000,downbar_d7:0.00189000,downbar_d8:0.00189000,downbar_d9:0.00214000,downbar_d10:0.00318000,downbar_d11:0.00134000,downbar_d12:0.00187000,downbar_d13:0.00076000,downbar_d14:0.00579000,
+
+out --> trend_h3:ProbabilityDistribution{result=0, probability_entries=[0=0.8711782762860456, 1=0.1288217237139544]}
+0	17:38:50.002	test EURUSD,H1: initialized
+0	17:39:32.144	test EURUSD,H1: uninit reason 2
+0	17:39:32.160	Expert test EURUSD,H1: removed
+0	17:39:32.175	Expert test EURUSD,H1: loaded successfully
+0	17:39:32.487	test EURUSD,H1: trend_h3:ProbabilityDistribution{result=0, probability_entries=[0=0.8711782762860456, 1=0.1288217237139544]}
+0	17:39:32.487	test EURUSD,H1: initialized
+0	17:50:56.923	test EURUSD,H1: uninit reason 4
+0	17:50:56.923	Expert test EURUSD,H1: removed
+0	17:56:42.234	Expert test GBPUSD,H1: loaded successfully
+0	17:56:44.652	test GBPUSD,H1: 1
+0	17:56:44.652	test GBPUSD,H1: initialized
+0	17:57:03.265	Automated trading enabled
+0	17:57:14.778	test GBPUSD,H1: uninit reason 2
+0	17:57:14.793	Expert test GBPUSD,H1: removed
+0	17:57:14.793	Expert test GBPUSD,H1: loaded successfully
+0	17:57:15.074	test GBPUSD,H1: 1
+0	17:57:15.074	test GBPUSD,H1: initialized
+0	17:59:51.950	test GBPUSD,H1: uninit reason 2
+0	17:59:51.950	Expert test GBPUSD,H1: removed
+0	17:59:51.966	Expert test GBPUSD,H1: loaded successfully
+0	17:59:52.324	test GBPUSD,H1: result=0, probability_entries=[0=0.82569659447155, 1=0.17430340552845003]}
+0	17:59:52.324	test GBPUSD,H1: initialized
+0	18:01:27.985	test GBPUSD,H1: uninit reason 2
+0	18:01:28.001	Expert test GBPUSD,H1: removed
+0	18:01:28.017	Expert test GBPUSD,H1: loaded successfully
+0	18:01:29.421	test GBPUSD,H1: result=0,0=0.8152127045991876, 1=0.1847872954008124]}
+0	18:01:29.421	test GBPUSD,H1: initialized
+0	18:02:36.667	test GBPUSD,H1: uninit reason 2
+0	18:02:36.667	Expert test GBPUSD,H1: removed
+0	18:02:36.682	Expert test GBPUSD,H1: loaded successfully
+0	18:02:36.947	test GBPUSD,H1: result=0, 0=0.8152127045991876, 1=0.1847872954008124
+0	18:02:36.947	test GBPUSD,H1: initialized
+0	18:02:39.602	test GBPUSD,H1: uninit reason 2
+0	18:02:39.618	Expert test GBPUSD,H1: removed
+0	18:02:39.618	Expert test GBPUSD,H1: loaded successfully
+0	18:02:39.977	test GBPUSD,H1: result=0, 0=0.8152127045991876, 1=0.1847872954008124
+0	18:02:39.977	test GBPUSD,H1: initialized
+0	18:03:37.369	test GBPUSD,H1: uninit reason 2
+0	18:03:37.385	Expert test GBPUSD,H1: removed
+0	18:03:37.385	Expert test GBPUSD,H1: loaded successfully
+0	18:03:37.728	test GBPUSD,H1: result=0,0=0.8152127045991876,1=0.1847872954008124
+0	18:03:37.728	test GBPUSD,H1: initialized
+0	18:03:45.856	test GBPUSD,H1: uninit reason 2
+0	18:03:45.856	Expert test GBPUSD,H1: removed
+0	18:03:45.871	Expert test GBPUSD,H1: loaded successfully
+0	18:03:46.230	test GBPUSD,H1: result=0,0=0.8152127045991876,1=0.1847872954008124
+0	18:03:46.230	test GBPUSD,H1: initialized
+0	18:08:02.140	test GBPUSD,H1: uninit reason 2
+0	18:08:02.140	Expert test GBPUSD,H1: removed
+0	18:08:02.155	Expert test GBPUSD,H1: loaded successfully
+0	18:08:02.530	test GBPUSD,H1: 0,0.8152127045991876,0.1847872954008124
+0	18:08:02.530	test GBPUSD,H1: initialized
+0	19:15:34.169	test GBPUSD,H1: uninit reason 2
+0	19:15:34.169	Expert test GBPUSD,H1: removed
+0	19:15:34.185	Expert test GBPUSD,H1: loaded successfully
+1	19:15:36.058	test GBPUSD,H1: array out of range in 'test.mq4' (58,19)
+3	19:15:36.058	test GBPUSD,H1: not initialized
+0	19:15:36.058	test GBPUSD,H1: uninit reason 8
+0	19:15:36.058	Expert test GBPUSD,H1: removed
+0	19:15:53.479	Expert myddl_test EURUSD,H1: loaded successfully
+1	19:15:55.725	Access violation read to 0x00000000 in 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll'
+3	19:15:55.725	myddl_test EURUSD,H1: not initialized
+0	19:15:55.725	myddl_test EURUSD,H1: uninit reason 8
+0	19:15:55.725	Expert myddl_test EURUSD,H1: removed
+0	19:16:17.621	Automated trading disabled
+0	19:17:20.700	Expert test EURUSD,H1: loaded successfully
+1	19:17:27.342	test EURUSD,H1: array out of range in 'test.mq4' (58,19)
+3	19:17:27.342	test EURUSD,H1: not initialized
+0	19:17:27.342	test EURUSD,H1: uninit reason 8
+0	19:17:27.358	Expert test EURUSD,H1: removed
+0	19:17:27.373	Expert test EURUSD,H1: loaded successfully
+1	19:17:33.461	test EURUSD,H1: array out of range in 'test.mq4' (58,19)
+3	19:17:33.461	test EURUSD,H1: not initialized
+0	19:17:33.461	test EURUSD,H1: uninit reason 8
+0	19:17:33.461	Expert test EURUSD,H1: removed
+0	19:18:05.436	Expert test EURUSD,H1: loaded successfully
+0	19:18:09.882	test EURUSD,H1: initialized
+0	19:19:37.151	test EURUSD,H1: uninit reason 2
+0	19:19:37.151	Expert test EURUSD,H1: removed
+0	19:19:37.167	Expert test EURUSD,H1: loaded successfully
+0	19:19:37.573	test EURUSD,H1: initialized
+0	19:19:47.795	test EURUSD,H1: uninit reason 4
+0	19:19:47.795	Expert test EURUSD,H1: removed
+0	19:19:54.428	Expert test GBPUSD,H1: loaded successfully
+0	19:19:57.738	test GBPUSD,H1: initialized
+0	19:20:07.793	test GBPUSD,H1: uninit reason 4
+0	19:20:07.793	Expert test GBPUSD,H1: removed
+0	19:22:28.952	Expert test EURUSD,H1: loaded successfully
+0	19:22:32.422	test EURUSD,H1: initialized
+0	19:22:38.443	test EURUSD,H1: uninit reason 4
+0	19:22:38.443	Expert test EURUSD,H1: removed
+0	19:22:48.963	Expert test USDCHF,H1: loaded successfully
+0	19:22:51.160	test USDCHF,H1: initialized
+0	19:22:57.977	test USDCHF,H1: uninit reason 4
+0	19:22:57.977	Expert test USDCHF,H1: removed
+0	19:23:04.585	Expert test GBPUSD,H1: loaded successfully
+0	19:23:07.601	test GBPUSD,H1: initialized
+0	19:23:12.074	test GBPUSD,H1: uninit reason 4
+0	19:23:12.074	Expert test GBPUSD,H1: removed
+0	19:23:37.631	Expert test EURUSD,H1: loaded successfully
+0	19:23:40.130	test EURUSD,H1: initialized
+0	19:23:44.098	test EURUSD,H1: uninit reason 4
+0	19:23:44.114	Expert test EURUSD,H1: removed
+0	21:42:37.009	Expert test EURUSD,M5: loaded successfully
+0	21:42:40.620	test EURUSD,M5: initialized
+0	21:42:49.129	Automated trading enabled
+0	21:42:51.941	Automated trading disabled
+0	21:42:52.659	Automated trading enabled
+0	21:43:05.475	test EURUSD,M5: uninit reason 3
+0	21:43:05.943	test EURUSD,H1: initialized
+0	21:52:54.402	test EURUSD,H1: uninit reason 1
+0	21:52:54.418	Expert test EURUSD,H1: removed
+0	21:52:54.433	Expert test EURUSD,H1: loaded successfully
+0	21:52:58.116	test EURUSD,H1: initialized
+0	22:26:29.227	test EURUSD,H1: uninit reason 1
+0	22:26:29.243	Expert test EURUSD,H1: removed
+0	22:26:29.258	Expert WooEA\EURUSD_EA EURUSD,H1: loaded successfully
+0	22:26:31.099	EURUSD_EA EURUSD,H1: initialized
+0	22:26:34.908	EURUSD_EA EURUSD,H1: uninit reason 3
+0	22:26:35.532	EURUSD_EA EURUSD,M1: initialized
+0	22:26:41.305	EURUSD_EA EURUSD,M1: uninit reason 3
+0	22:26:41.321	EURUSD_EA EURUSD,M5: initialized
+0	22:26:42.913	EURUSD_EA EURUSD,M5: uninit reason 3
+0	22:26:42.928	EURUSD_EA EURUSD,M1: initialized
+0	22:28:16.733	EURUSD_EA EURUSD,M1: uninit reason 3
+0	22:28:16.738	EURUSD_EA EURUSD,M5: initialized
+0	22:28:19.999	EURUSD_EA EURUSD,M5: uninit reason 3
+0	22:28:20.014	EURUSD_EA EURUSD,M1: initialized
+0	22:35:01.492	EURUSD_EA EURUSD,M1: uninit reason 1
+0	22:35:01.508	Expert EURUSD_EA EURUSD,M1: removed
+0	22:35:01.523	Expert test EURUSD,M1: loaded successfully
+0	22:35:03.583	test EURUSD,M1: initialized
+0	22:35:12.946	test EURUSD,M1: uninit reason 3
+0	22:35:13.321	test EURUSD,H1: initialized
+0	22:36:20.200	test EURUSD,H1: uninit reason 3
+0	22:36:20.512	test EURUSD,Daily: initialized
+0	22:36:22.746	test EURUSD,Daily: uninit reason 3
+0	22:36:23.074	test EURUSD,H1: initialized
+0	22:46:09.963	test EURUSD,H1: uninit reason 1
+0	22:46:09.979	Expert test EURUSD,H1: removed
+0	22:46:09.995	Expert WooEA\EURUSD_EA EURUSD,H1: loaded successfully
+0	22:46:11.852	EURUSD_EA EURUSD,H1: initialized
+0	22:46:15.816	EURUSD_EA EURUSD,H1: uninit reason 3
+0	22:46:16.159	EURUSD_EA EURUSD,M30: initialized
+0	22:46:16.347	EURUSD_EA EURUSD,M30: uninit reason 3
+0	22:46:16.690	EURUSD_EA EURUSD,M15: initialized
+0	22:46:19.046	EURUSD_EA EURUSD,M15: uninit reason 3
+0	22:46:19.062	EURUSD_EA EURUSD,M5: initialized
+0	22:46:22.119	EURUSD_EA EURUSD,M5: uninit reason 3
+0	22:46:22.447	EURUSD_EA EURUSD,M1: initialized
+0	22:46:22.806	EURUSD_EA EURUSD,M1: uninit reason 3
+0	22:46:22.821	EURUSD_EA EURUSD,M5: initialized
+0	22:54:20.293	EURUSD_EA EURUSD,M5: uninit reason 3
+0	22:54:20.621	EURUSD_EA EURUSD,M1: initialized
+0	22:54:21.808	EURUSD_EA EURUSD,M1: uninit reason 3
+0	22:54:21.823	EURUSD_EA EURUSD,M5: initialized
+0	23:10:46.474	EURUSD_EA EURUSD,M5: uninit reason 2
+0	23:10:46.489	Expert EURUSD_EA EURUSD,M5: removed
+0	23:10:46.489	Expert WooEA\EURUSD_EA EURUSD,M5: loaded successfully
+0	23:10:46.520	EURUSD_EA EURUSD,M5: initialized
+0	23:10:48.720	EURUSD_EA EURUSD,M5: OrderSend failed with error #129
+0	23:10:48.720	EURUSD_EA EURUSD,M5: open order error!!!0
+0	23:14:52.708	EURUSD_EA EURUSD,M5: uninit reason 2
+0	23:14:52.724	Expert EURUSD_EA EURUSD,M5: removed
+0	23:14:52.739	Expert WooEA\EURUSD_EA EURUSD,M5: loaded successfully
+0	23:14:52.755	EURUSD_EA EURUSD,M5: initialized
+0	23:14:54.643	EURUSD_EA EURUSD,M5: OrderSend failed with error #129
+0	23:14:54.643	EURUSD_EA EURUSD,M5: open order error!!!0
+0	23:16:22.182	EURUSD_EA EURUSD,M5: uninit reason 4
+0	23:16:22.182	Expert EURUSD_EA EURUSD,M5: removed
+0	23:44:58.673	Compiling 'test'

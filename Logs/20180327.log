@@ -1,0 +1,217 @@
+0	11:45:03.769	Expert test USDCHF,H1: loaded successfully
+0	11:45:09.654	test USDCHF,H1: initialized
+0	11:45:16.084	test USDCHF,H1: uninit reason 4
+0	11:45:16.786	Expert test USDCHF,H1: removed
+0	11:54:32.839	Expert test USDCHF,H1: loaded successfully
+0	11:54:35.663	test USDCHF,H1: initialized
+0	11:54:42.779	test USDCHF,H1: uninit reason 4
+0	11:54:43.184	Expert test USDCHF,H1: removed
+0	11:54:52.935	Expert test USDCHF,H1: loaded successfully
+0	11:54:55.431	test USDCHF,H1: initialized
+0	11:55:01.608	test USDCHF,H1: uninit reason 4
+0	11:55:02.123	Expert test USDCHF,H1: removed
+0	11:59:33.555	Expert test USDCHF,H1: loaded successfully
+0	11:59:35.489	test USDCHF,H1: initialized
+0	11:59:40.590	test USDCHF,H1: uninit reason 4
+0	11:59:41.167	Expert test USDCHF,H1: removed
+0	22:16:52.288	Expert test USDCHF,H1: loaded successfully
+1	22:16:57.984	Access violation read to 0x00000000 in 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll'
+3	22:16:57.984	test USDCHF,H1: not initialized
+0	22:16:57.984	test USDCHF,H1: uninit reason 8
+0	22:16:58.000	Expert test USDCHF,H1: removed
+0	22:21:27.544	Expert test USDCHF,H1: loaded successfully
+0	22:21:32.926	test USDCHF,H1: initialized
+0	22:21:38.947	test USDCHF,H1: uninit reason 4
+0	22:21:39.368	Expert test USDCHF,H1: removed
+0	22:22:27.120	Expert test USDCHF,H1: loaded successfully
+0	22:22:29.148	test USDCHF,H1: initialized
+0	22:22:55.139	test USDCHF,H1: uninit reason 4
+0	22:22:55.419	Expert test USDCHF,H1: removed
+0	22:23:06.479	Expert test USDCHF,H1: loaded successfully
+0	22:23:08.554	test USDCHF,H1: initialized
+0	22:23:17.695	test USDCHF,H1: uninit reason 4
+0	22:23:17.836	Expert test USDCHF,H1: removed
+0	22:23:32.640	Expert test USDCHF,H1: loaded successfully
+0	22:23:34.496	test USDCHF,H1: initialized
+0	22:23:39.958	test USDCHF,H1: uninit reason 4
+0	22:23:40.145	Expert test USDCHF,H1: removed
+0	22:23:55.230	Expert test USDCHF,H1: loaded successfully
+0	22:23:57.117	test USDCHF,H1: initialized
+0	22:24:09.846	test USDCHF,H1: uninit reason 4
+0	22:24:09.924	Expert test USDCHF,H1: removed
+0	22:24:36.118	Expert test USDCHF,H1: loaded successfully
+0	22:24:37.849	test USDCHF,H1: initialized
+0	22:27:47.382	test USDCHF,H1: uninit reason 4
+0	22:27:47.445	Expert test USDCHF,H1: removed
+0	22:28:13.505	Expert test USDCHF,H1: loaded successfully
+0	22:28:14.956	test USDCHF,H1: initialized
+0	22:28:23.472	test USDCHF,H1: uninit reason 4
+0	22:28:24.173	Expert test USDCHF,H1: removed
+0	22:28:31.355	Expert test USDCHF,H1: loaded successfully
+0	22:28:32.759	test USDCHF,H1: initialized
+0	22:28:39.983	test USDCHF,H1: uninit reason 4
+0	22:28:40.404	Expert test USDCHF,H1: removed
+0	22:28:45.473	Expert test USDCHF,H1: loaded successfully
+0	22:28:47.360	test USDCHF,H1: initialized
+0	22:28:51.556	test USDCHF,H1: uninit reason 4
+0	22:28:52.226	Expert test USDCHF,H1: removed
+0	22:29:21.325	Expert test USDCHF,H1: loaded successfully
+1	22:29:24.230	Access violation read to 0x00000000 in 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll'
+3	22:29:24.230	test USDCHF,H1: not initialized
+0	22:29:24.230	test USDCHF,H1: uninit reason 8
+0	22:29:24.292	Expert test USDCHF,H1: removed
+0	22:29:47.823	Expert test EURUSD,H1: loaded successfully
+3	22:32:46.410	test EURUSD,H1: shutdown by timeout
+0	22:32:54.927	Expert test EURUSD,H1: removed
+0	22:32:54.927	Expert test EURUSD,H1: loaded successfully
+0	22:33:33.635	Expert test USDCHF,H1: loaded successfully
+0	22:34:02.456	test USDCHF,H1: initialized
+0	22:34:05.797	test USDCHF,H1: uninit reason 4
+0	22:34:05.844	Expert test USDCHF,H1: removed
+0	22:34:53.030	Expert test USDCHF,H1: loaded successfully
+0	22:34:54.558	test USDCHF,H1: initialized
+0	22:35:21.012	test USDCHF,H1: uninit reason 4
+0	22:35:21.370	Expert test USDCHF,H1: removed
+0	22:35:50.846	Expert test EURUSD,H1: loaded successfully
+0	22:35:52.422	test EURUSD,H1: initialized
+0	22:36:29.931	test EURUSD,H1: uninit reason 2
+0	22:36:29.931	Expert test EURUSD,H1: removed
+0	22:36:29.947	Expert test EURUSD,H1: loaded successfully
+0	22:36:29.962	test EURUSD,H1: initialized
+0	22:36:35.582	test EURUSD,H1: uninit reason 1
+0	22:36:35.598	Expert test EURUSD,H1: removed
+0	22:36:35.613	Expert test EURUSD,H1: loaded successfully
+0	22:36:37.113	test EURUSD,H1: initialized
+0	22:37:00.124	test EURUSD,H1: uninit reason 1
+0	22:37:00.140	Expert test EURUSD,H1: removed
+0	22:37:00.155	Expert test EURUSD,H1: loaded successfully
+0	22:37:01.902	test EURUSD,H1: initialized
+0	22:38:27.227	test EURUSD,H1: uninit reason 2
+0	22:38:27.227	Expert test EURUSD,H1: removed
+0	22:38:27.242	Expert test EURUSD,H1: loaded successfully
+0	22:38:27.258	test EURUSD,H1: initialized
+0	22:38:28.147	test EURUSD,H1: uninit reason 2
+0	22:38:28.147	Expert test EURUSD,H1: removed
+0	22:38:28.147	Expert test EURUSD,H1: loaded successfully
+0	22:38:28.194	test EURUSD,H1: initialized
+0	22:38:28.241	Expert test USDCHF,H1: loaded successfully
+0	22:38:29.879	test USDCHF,H1: initialized
+0	22:39:31.921	test EURUSD,H1: uninit reason 4
+0	22:39:31.921	Expert test EURUSD,H1: removed
+0	22:39:33.044	test USDCHF,H1: uninit reason 4
+0	22:39:33.496	Expert test USDCHF,H1: removed
+0	22:42:10.279	Expert test USDCHF,H1: loaded successfully
+1	22:42:14.089	Access violation read to 0x00000000 in 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll'
+3	22:42:14.089	test USDCHF,H1: not initialized
+0	22:42:14.089	test USDCHF,H1: uninit reason 8
+0	22:42:14.104	Expert test USDCHF,H1: removed
+0	22:42:58.466	Expert test USDCHF,H1: loaded successfully
+0	22:43:20.003	Expert test USDCHF,H1: removed
+0	22:43:46.650	Expert test USDCHF,H1: loaded successfully
+0	22:43:59.702	Expert test USDCHF,H1: removed
+0	22:44:08.719	Expert test USDCHF,H1: loaded successfully
+0	22:44:19.641	Expert test USDCHF,H1: removed
+0	22:45:42.785	Expert test USDCHF,H1: loaded successfully
+0	22:46:02.041	Expert test USDCHF,H1: removed
+0	22:46:16.530	Expert test EURUSD,H1: loaded successfully
+0	22:46:20.871	test EURUSD,H1: initialized
+0	22:46:47.164	test EURUSD,H1: uninit reason 2
+0	22:46:47.164	Expert test EURUSD,H1: removed
+0	22:46:47.179	Expert test EURUSD,H1: loaded successfully
+0	22:46:47.850	test EURUSD,H1: initialized
+0	22:46:55.202	test EURUSD,H1: uninit reason 1
+0	22:46:55.217	Expert test EURUSD,H1: removed
+0	22:46:55.233	Expert test EURUSD,H1: loaded successfully
+0	22:46:57.122	test EURUSD,H1: initialized
+0	22:47:07.421	test EURUSD,H1: uninit reason 2
+0	22:47:07.421	Expert test EURUSD,H1: removed
+0	22:47:07.436	Expert test EURUSD,H1: loaded successfully
+0	22:47:07.779	test EURUSD,H1: initialized
+0	22:47:50.249	test EURUSD,H1: uninit reason 2
+0	22:47:50.249	Expert test EURUSD,H1: removed
+0	22:47:50.265	Expert test EURUSD,H1: loaded successfully
+0	22:47:51.247	test EURUSD,H1: initialized
+0	22:48:39.642	test EURUSD,H1: uninit reason 2
+0	22:48:39.642	Expert test EURUSD,H1: removed
+0	22:48:39.658	Expert test EURUSD,H1: loaded successfully
+0	22:48:40.016	test EURUSD,H1: initialized
+0	22:48:44.292	Automated trading disabled
+0	22:50:50.415	test EURUSD,H1: uninit reason 2
+0	22:50:50.415	Expert test EURUSD,H1: removed
+0	22:50:50.431	Expert test EURUSD,H1: loaded successfully
+0	22:50:50.462	test EURUSD,H1: initialized
+0	22:50:56.811	test EURUSD,H1: uninit reason 1
+0	22:50:56.826	Expert test EURUSD,H1: removed
+0	22:50:56.842	Expert test EURUSD,H1: loaded successfully
+0	22:50:57.887	test EURUSD,H1: initialized
+0	22:51:49.869	Automated trading enabled
+0	22:51:56.764	test EURUSD,H1: uninit reason 9
+0	22:51:56.795	Expert test EURUSD,H1: removed
+0	22:52:21.203	Expert test EURUSD,H1: loaded successfully
+0	22:52:25.392	test EURUSD,H1: initialized
+0	22:52:54.208	test EURUSD,H1: uninit reason 2
+0	22:52:54.208	Expert test EURUSD,H1: removed
+0	22:52:54.224	Expert test EURUSD,H1: loaded successfully
+0	22:52:54.240	test EURUSD,H1: initialized
+0	22:53:30.921	test EURUSD,H1: uninit reason 2
+0	22:53:30.921	Expert test EURUSD,H1: removed
+0	22:53:30.937	Expert test EURUSD,H1: loaded successfully
+0	22:53:30.952	test EURUSD,H1: initialized
+0	22:53:38.878	test EURUSD,H1: uninit reason 2
+0	22:53:38.878	Expert test EURUSD,H1: removed
+0	22:53:38.893	Expert test EURUSD,H1: loaded successfully
+0	22:53:38.925	test EURUSD,H1: initialized
+0	22:54:41.764	test EURUSD,H1: uninit reason 2
+0	22:54:41.764	Expert test EURUSD,H1: removed
+0	22:54:41.780	Expert test EURUSD,H1: loaded successfully
+0	22:54:41.795	test EURUSD,H1: initialized
+0	22:54:50.325	test EURUSD,H1: uninit reason 2
+0	22:54:50.326	Expert test EURUSD,H1: removed
+0	22:54:50.356	Expert test EURUSD,H1: loaded successfully
+0	22:54:50.387	test EURUSD,H1: initialized
+0	22:55:04.318	test EURUSD,H1: uninit reason 9
+0	22:55:04.349	Expert test EURUSD,H1: removed
+0	22:56:10.301	Expert test EURUSD,H1: loaded successfully
+1	22:56:18.579	Access violation read to 0x00000000 in 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll'
+3	22:56:18.579	test EURUSD,H1: not initialized
+0	22:56:18.579	test EURUSD,H1: uninit reason 8
+0	22:56:18.579	Expert test EURUSD,H1: removed
+0	22:56:18.595	Expert test EURUSD,H1: loaded successfully
+3	22:57:28.089	test EURUSD,H1: shutdown by timeout
+0	22:57:36.635	Expert test EURUSD,H1: removed
+0	22:57:47.528	Expert test EURUSD,H1: loaded successfully
+1	22:57:56.508	Access violation read to 0x00000000 in 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll'
+3	22:57:56.508	test EURUSD,H1: not initialized
+0	22:57:56.508	test EURUSD,H1: uninit reason 8
+0	22:57:56.508	Expert test EURUSD,H1: removed
+0	23:09:48.311	Expert test EURUSD,H1: loaded successfully
+1	23:09:53.465	Access violation read to 0x00000000 in 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll'
+3	23:09:53.465	test EURUSD,H1: not initialized
+0	23:09:53.465	test EURUSD,H1: uninit reason 8
+0	23:09:53.467	Expert test EURUSD,H1: removed
+0	23:10:35.841	Expert test EURUSD,H1: loaded successfully
+0	23:10:37.422	test EURUSD,H1: initialized
+0	23:15:08.838	test EURUSD,H1: uninit reason 4
+0	23:15:08.853	Expert test EURUSD,H1: removed
+0	23:40:51.526	Expert test EURUSD,H1: loaded successfully
+1	23:40:57.112	Access violation read to 0x00000000 in 'C:\Users\AustinWoo\AppData\Roaming\MetaQuotes\Terminal\BB190E062770E27C3E79391AB0D1A117\MQL4\Libraries\QuantPrediction.dll'
+3	23:40:57.112	test EURUSD,H1: not initialized
+0	23:40:57.112	test EURUSD,H1: uninit reason 8
+0	23:40:57.112	Expert test EURUSD,H1: removed
+0	23:42:10.279	Expert test EURUSD,H1: loaded successfully
+0	23:42:12.497
+0	23:42:12.497	test EURUSD,H1: initialized
+0	23:56:25.081	Compiling 'test'
+0	23:56:28.030	test EURUSD,H1: uninit reason 2
+0	23:56:28.030	Expert test EURUSD,H1: removed
+0	23:56:28.045	Expert test EURUSD,H1: loaded successfully
+0	23:56:28.061
+0	23:56:28.061	test EURUSD,H1: initialized
+0	23:56:42.667	Expert test2 USDCHF,H1: loaded successfully
+0	23:56:48.174	test2 USDCHF,H1: initialized
+0	23:57:13.822	test EURUSD,H1: uninit reason 4
+0	23:57:13.822	Expert test EURUSD,H1: removed
+0	23:57:29.266	test2 USDCHF,H1: uninit reason 4
+0	23:57:29.953	Expert test2 USDCHF,H1: removed
+0	23:59:15.940	Expert test2 EURUSD,H1: loaded successfully
+0	23:59:17.594	test2 EURUSD,H1: initialized

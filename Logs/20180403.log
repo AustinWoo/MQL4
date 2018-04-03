@@ -1,0 +1,22 @@
+0	16:03:59.126	Expert test USDCHF,H1: loaded successfully
+0	16:04:07.148	test USDCHF,H1: initialized
+0	16:04:28.660	test USDCHF,H1: uninit reason 4
+0	16:04:28.691	Expert test USDCHF,H1: removed
+0	16:04:34.260	Expert test USDCHF,H1: loaded successfully
+0	16:04:37.567	test USDCHF,H1: trend_h3:ProbabilityDistribution{result=1, probability_entries=[0=0.1245633614524922, 1=0.6570285439206431, 2=0.21840809462686472]}
+0	16:04:37.567	test USDCHF,H1: initialized
+0	16:08:00.892	test USDCHF,H1: uninit reason 4
+0	16:08:01.017	Expert test USDCHF,H1: removed
+0	16:08:03.763	Expert test USDCHF,H1: loaded successfully
+0	16:08:07.553	test USDCHF,H1: 1,0.1245633614524922,0.6570285439206431,0.21840809462686472
+0	16:08:07.553	test USDCHF,H1: initialized
+0	16:10:32.208	test USDCHF,H1: uninit reason 4
+0	16:10:32.317	Expert test USDCHF,H1: removed
+0	16:10:35.343	Expert test USDCHF,H1: loaded successfully
+0	16:10:38.260	test USDCHF,H1: result ->1
+0 ->0.1245633614524922
+1 ->0.6570285439206431
+2 ->0.21840809462686472
+0	16:10:38.260	test USDCHF,H1: initialized
+0	16:10:57.760	test USDCHF,H1: uninit reason 4
+0	16:10:57.869	Expert test USDCHF,H1: removed

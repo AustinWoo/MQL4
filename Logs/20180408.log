@@ -1,0 +1,8 @@
+0	16:40:02.354	Expert test EURUSD,H1: loaded successfully
+0	16:40:09.385	test EURUSD,H1: result ->2
+0 ->0.09941782088734556
+1 ->0.36729510446477065
+2 ->0.5332870746478838
+0	16:40:09.385	test EURUSD,H1: initialized
+0	16:40:17.746	test EURUSD,H1: uninit reason 4
+0	16:40:17.762	Expert test EURUSD,H1: removed

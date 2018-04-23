@@ -1,6 +1,0 @@
-0	00:25:55.224	Expert WooEA\Print_H1 EURUSD,H1: loaded successfully
-0	00:25:57.249	Print_H1 EURUSD,H1: initialized
-0	00:28:59.870	Print_H1 EURUSD,H1: uninit reason 4
-0	00:28:59.870	Expert Print_H1 EURUSD,H1: removed
-0	09:57:42.578	Compiling 'Print_H1'
-0	13:28:07.216	Compiling 'WooEA\Download_H1'

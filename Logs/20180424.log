@@ -432,3 +432,19 @@
 0	14:52:37.524	Expert AutoClose USDJPY,H1: removed
 0	14:52:37.540	Expert AutoClose GBPUSD,H1: removed
 0	14:52:37.547	Expert AutoClose USDCHF,H1: removed
+0	16:30:53.708	Expert WooEA\AutoClose EURUSD,H1: loaded successfully
+0	16:30:53.817	Expert WooEA\AutoClose USDJPY,H1: loaded successfully
+0	16:30:53.926	Expert WooEA\AutoClose GBPUSD,H1: loaded successfully
+0	16:30:54.020	Expert WooEA\AutoClose USDCHF,H1: loaded successfully
+0	16:30:58.158	AutoClose EURUSD,H1: initialized
+0	16:30:58.188	AutoClose GBPUSD,H1: initialized
+0	16:30:58.250	AutoClose USDJPY,H1: initialized
+0	16:30:58.280	AutoClose USDCHF,H1: initialized
+0	16:30:58.622	AutoClose EURUSD,H1: uninit reason 4
+0	16:30:58.632	Expert AutoClose EURUSD,H1: removed
+0	16:31:00.326	AutoClose USDJPY,H1: uninit reason 4
+0	16:31:00.341	Expert AutoClose USDJPY,H1: removed
+0	16:31:02.775	AutoClose GBPUSD,H1: uninit reason 4
+0	16:31:02.775	Expert AutoClose GBPUSD,H1: removed
+0	16:31:04.522	AutoClose USDCHF,H1: uninit reason 4
+0	16:31:04.538	Expert AutoClose USDCHF,H1: removed

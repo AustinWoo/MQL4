@@ -398,3 +398,37 @@
 0	00:45:48.580	AutoClose EURUSD,H1: initialized
 0	00:45:57.893	AutoClose EURUSD,H1: uninit reason 4
 0	00:45:57.908	Expert AutoClose EURUSD,H1: removed
+0	14:45:39.790	Expert WooEA\AutoClose EURUSD,H4: loaded successfully
+0	14:45:42.052	AutoClose EURUSD,H4: initialized
+0	14:45:57.527	AutoClose EURUSD,H4: uninit reason 4
+0	14:45:57.542	Expert AutoClose EURUSD,H4: removed
+0	14:46:49.335	Expert WooEA\AutoClose EURUSD,H1: loaded successfully
+0	14:46:50.957	AutoClose EURUSD,H1: initialized
+0	14:46:57.774	AutoClose EURUSD,H1: uninit reason 1
+0	14:46:57.790	Expert AutoClose EURUSD,H1: removed
+0	14:46:57.805	Expert WooEA\AutoClose EURUSD,H1: loaded successfully
+0	14:46:59.319	AutoClose EURUSD,H1: initialized
+0	14:47:09.975	AutoClose EURUSD,H1: uninit reason 4
+0	14:47:09.975	Expert AutoClose EURUSD,H1: removed
+0	14:48:52.422	Expert WooEA\AutoClose EURUSD,H1: loaded successfully
+0	14:48:54.153	AutoClose EURUSD,H1: initialized
+0	14:49:06.367	Expert WooEA\AutoClose USDJPY,H1: loaded successfully
+0	14:49:08.317	AutoClose USDJPY,H1: initialized
+2	14:49:29.439	AutoClose USDJPY,H1: modify #32642347 buy 0.01 USDJPY at 108.822 sl: 108.622 tp: 114.822 ok
+0	14:49:29.439	AutoClose USDJPY,H1: 修改成功
+0	14:49:52.218	Expert WooEA\AutoClose GBPUSD,H1: loaded successfully
+0	14:49:54.012	AutoClose GBPUSD,H1: initialized
+2	14:49:54.386	AutoClose GBPUSD,H1: modify #32642354 sell 0.01 GBPUSD at 1.39362 sl: 1.39562 tp: 1.33362 ok
+0	14:49:54.386	AutoClose GBPUSD,H1: 修改成功
+0	14:51:10.717	Expert WooEA\AutoClose USDCHF,H1: loaded successfully
+0	14:51:12.792	AutoClose USDCHF,H1: initialized
+2	14:51:14.149	AutoClose USDCHF,H1: modify #32642377 buy 0.01 USDCHF at 0.97790 sl: 0.97590 tp: 1.03790 ok
+0	14:51:14.149	AutoClose USDCHF,H1: 修改成功
+0	14:52:37.477	AutoClose EURUSD,H1: uninit reason 9
+0	14:52:37.477	AutoClose USDJPY,H1: uninit reason 9
+0	14:52:37.477	AutoClose GBPUSD,H1: uninit reason 9
+0	14:52:37.477	AutoClose USDCHF,H1: uninit reason 9
+0	14:52:37.514	Expert AutoClose EURUSD,H1: removed
+0	14:52:37.524	Expert AutoClose USDJPY,H1: removed
+0	14:52:37.540	Expert AutoClose GBPUSD,H1: removed
+0	14:52:37.547	Expert AutoClose USDCHF,H1: removed

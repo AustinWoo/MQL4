@@ -1,0 +1,5 @@
+模型读取成功
+ProbabilityDistribution{result=0, probability_entries=[0=0.5674183763147399, 1=0.4325816236852601]}
+0.5674183763147399
+0.4325816236852601
+trend_h3:ProbabilityDistribution{result=0, probability_entries=[0=0.5674183763147399, 1=0.4325816236852601]}

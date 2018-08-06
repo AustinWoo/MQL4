@@ -1,0 +1,14 @@
+String single  = kv_predict("gapbid_pre_d1:-0.007401,pricetimehour:0,downbar_d3:0,gapbid_pre_h3:0.002899,highlow_d7:0,gapbid_pre_h2:0.001199,downbar_d9:0,upbar_d13:0,downbar_d1:0,openclose_d12:0,downbar_d4:0");
+{
+    "0": 0.3651302922162997,
+    "1": 0.6348697077837003}
+
+String single  = kv_predict("gapbid_pre_d1:0.0008,pricetimehour:16,downbar_d3:0,gapbid_pre_h3:0.0044,highlow_d7:0,gapbid_pre_h2:0.0037,downbar_d9:0,upbar_d13:0,downbar_d1:0,openclose_d12:0,downbar_d4:0");
+{
+    "0": 0.8698664165546666,
+    "1": 0.1301335834453334}
+
+
+java -cp target/CallPMML-1.0-SNAPSHOT-jar-with-dependencies.jar StockPredict.kv_predict
+
+java -cp target/CallPMML-1.0-SNAPSHOT-jar-with-dependencies.jar StockPredict "gapbid_pre_d1:0.0008,pricetimehour:16,downbar_d3:0,gapbid_pre_h3:0.0044,highlow_d7:0,gapbid_pre_h2:0.0037,downbar_d9:0,upbar_d13:0,downbar_d1:0,openclose_d12:0,downbar_d4:0"
